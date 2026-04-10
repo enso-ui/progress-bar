@@ -1,6 +1,6 @@
 # Progress Bar
 
-Unopinionated Progress Bar
+Unopinionated progress bar.
 
 ## Usage
 
@@ -18,4 +18,4 @@ Thank you to all the people who already contributed to Enso!
 
 ## License
 
-See LICENSE.
+[MIT](LICENSE)
