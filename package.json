@@ -17,7 +17,10 @@
     "url": "https://github.com/enso-ui/progress-bar/issues"
   },
   "homepage": "https://github.com/enso-ui/progress-bar#readme",
-  "dependencies": {
-    "vue": "^3.0"
+  "peerDependencies": {
+    "vue": "^3.5.0"
+  },
+  "devDependencies": {
+    "vue": "^3.5.0"
   }
 }
