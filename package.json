@@ -1,26 +1,26 @@
 {
-  "name": "@enso-ui/progress-bar",
-  "version": "2.2.1",
-  "description": "Unopinionated Progress Bar",
-  "main": "src/ProgressBar.vue",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/enso-ui/progress-bar.git"
-  },
-  "keywords": [
-    "progress-bar",
-    "vue"
-  ],
-  "author": "Adrian Ocneanu <aocneanu@gmail.com>",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/enso-ui/progress-bar/issues"
-  },
-  "homepage": "https://github.com/enso-ui/progress-bar#readme",
-  "peerDependencies": {
-    "vue": "^3.5.0"
-  },
-  "devDependencies": {
-    "vue": "^3.5.0"
-  }
+    "name": "@enso-ui/progress-bar",
+    "version": "2.2.1",
+    "description": "Thin visual progress strip for Enso UI.",
+    "main": "src/ProgressBar.vue",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/enso-ui/progress-bar.git"
+    },
+    "keywords": [
+        "progress-bar",
+        "vue"
+    ],
+    "author": "Adrian Ocneanu <aocneanu@gmail.com>",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/enso-ui/progress-bar/issues"
+    },
+    "homepage": "https://github.com/enso-ui/progress-bar#readme",
+    "peerDependencies": {
+        "vue": "^3.5.0"
+    },
+    "devDependencies": {
+        "vue": "^3.5.0"
+    }
 }
